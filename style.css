@@ -4,6 +4,10 @@
     /* background-color: #3dbeff; */
 }
 
+body {
+    overflow-x: hidden;
+}
+
 a {
     text-decoration: none;
 }
